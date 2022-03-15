@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kitchenMate/static/css/main.17f8135d.css",
+    "main.js": "/kitchenMate/static/js/main.6b68a0b1.js",
+    "static/media/einsteing.png": "/kitchenMate/static/media/einsteing.1c29a0ca9dc0873055dc.png",
+    "index.html": "/kitchenMate/index.html",
+    "main.17f8135d.css.map": "/kitchenMate/static/css/main.17f8135d.css.map",
+    "main.6b68a0b1.js.map": "/kitchenMate/static/js/main.6b68a0b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f8135d.css",
+    "static/js/main.6b68a0b1.js"
+  ]
+}
